@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  web:
+    image: basharherbawi/gsg-html:v1
+    ports: 
+      - "2077:80"
