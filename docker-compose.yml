@@ -2,6 +2,6 @@ version: '3'
 
 services:
   web:
-    image: basharherbawi/gsg-html:v1
+    image: basharherbawi/gsg-html
     ports: 
       - "2077:80"

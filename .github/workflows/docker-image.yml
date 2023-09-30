@@ -22,5 +22,5 @@ jobs:
         
     - name: Build and push the Docker image
       run: |
-        docker build . --file Dockerfile --tag basharherbawi/gsg-html:$(date +%s)
-        docker push basharherbawi/gsg-html:$(date +%s)
+        docker build . --file Dockerfile --tag basharherbawi/gsg-html
+        docker push basharherbawi/gsg-html
