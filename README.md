@@ -6,3 +6,5 @@ It will work in the future inshaa'allah but for now I just need to verify my ema
 to be exact I can't push on a repo that does not exist, and to make a repo I need a verified account which I don't have ATM
 
 Update: Everything works as intended.
+
+Shoutout to: Team without m Team.
